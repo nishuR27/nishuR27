@@ -19,32 +19,32 @@
 <!-- First Row -->
 <div align="center" >
   <img src="https://img.shields.io/badge/EDUCATION-Bachelor's%20in%20Computer%20Science%20and%20Engineering-blueviolet" alt="Education">
-  <a href="https://github.com/nishuR15/nishuR15"><img src="https://img.shields.io/badge/HELLO%20CODER%20-BROTHERS-black" alt="Custom Badge"></a>
-  <a href="https://github.com/nishuR15/nishuR15"><img src="https://komarev.com/ghpvc/?username=nishuR15&color=blueviolet" alt="Profile Views"></a>
+  <a href="https://github.com/nishuR27/nishuR27"><img src="https://img.shields.io/badge/HELLO%20CODER%20-BROTHERS-black" alt="Custom Badge"></a>
+  <a href="https://github.com/nishuR27/nishuR27"><img src="https://komarev.com/ghpvc/?username=nishuR27&color=blueviolet" alt="Profile Views"></a>
 </div>
 
 <br>
 <!-- Second Row -->
 <div align="center" >
-  <a href="https://github.com/nishuR15/nishuR15"><img src="https://img.shields.io/github/repo-size/nishuR15/nishuR15?color=black&label=Repo%20Size&style=flat&logo=github&logoColor=black" alt="GitHub Repo Size"></a>
-  <a href="https://github.com/nishuR15/nishuR15"><img src="https://img.shields.io/github/issues-pr-closed/nishuR15/nishuR15?color=black&label=Issues%20Closed&style=flat&logo=github&logoColor=black" alt="Closed PRs"></a>
-  <a href="https://github.com/nishuR15/nishuR15"><img src="https://img.shields.io/github/issues/nishuR15/nishuR15?color=black&label=Issues&style=flat&logo=github&logoColor=black" alt="Open Issues"></a>
+  <a href="https://github.com/nishuR27/nishuR27"><img src="https://img.shields.io/github/repo-size/nishuR27/nishuR27?color=black&label=Repo%20Size&style=flat&logo=github&logoColor=black" alt="GitHub Repo Size"></a>
+  <a href="https://github.com/nishuR27/nishuR27"><img src="https://img.shields.io/github/issues-pr-closed/nishuR27/nishuR27?color=black&label=Issues%20Closed&style=flat&logo=github&logoColor=black" alt="Closed PRs"></a>
+  <a href="https://github.com/nishuR27/nishuR27"><img src="https://img.shields.io/github/issues/nishuR27/nishuR27?color=black&label=Issues&style=flat&logo=github&logoColor=black" alt="Open Issues"></a>
 </div>
 
 <br>
 
 <!-- Third Row -->
 <div align="center" >
-  <a href="https://github.com/sponsors/nishuR15" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sponsor%20Me-GitHub%20Sponsors-blueviolet" alt="Sponsor Me"></a>
-  <a href="https://github.com/nishuR15/nishuR15"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103&color=black&style=flat&logo=github&logoColor=black" alt="Open Source Love"></a>
-  <a href="https://github.com/nishuR15/nishuR15"><img src="https://img.shields.io/badge/-Follow%20Me%20-blueviolet" alt="Follow Me"></a>
+  <a href="https://github.com/sponsors/nishuR27" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sponsor%20Me-GitHub%20Sponsors-blueviolet" alt="Sponsor Me"></a>
+  <a href="https://github.com/nishuR27/nishuR27"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103&color=black&style=flat&logo=github&logoColor=black" alt="Open Source Love"></a>
+  <a href="https://github.com/nishuR27/nishuR27"><img src="https://img.shields.io/badge/-Follow%20Me%20-blueviolet" alt="Follow Me"></a>
 </div>
 
 <br>
 <!-- Code Quality and Other Metrics -->
 <div align="center">
-    <a href="https://github.com/nishuR15/nishuR15"><img src="https://img.shields.io/codecov/c/github/nishuR15/nishuR15?color=black&style=flat&logo=github&logoColor=black" alt="Code Coverage"></a>
-    <a href="https://github.com/nishuR15/nishuR15"><img src="https://img.shields.io/librariesio/release/github/nishuR15/nishuR15?color=black&style=flat&logo=github&logoColor=black" alt="Dependencies"></a>
+    <a href="https://github.com/nishuR27/nishuR27"><img src="https://img.shields.io/codecov/c/github/nishuR15/nishuR15?color=black&style=flat&logo=github&logoColor=black" alt="Code Coverage"></a>
+    <a href="https://github.com/nishuR27/nishuR27"><img src="https://img.shields.io/librariesio/release/github/nishuR27/nishuR27?color=black&style=flat&logo=github&logoColor=black" alt="Dependencies"></a>
 </div>
 
 <br>
@@ -54,13 +54,13 @@
 # <h1 align="center"> Github Contributions:</h1>
 
 <div align="center">
-  <a href="https://github.com/nishuR15/nishuR15"><img src="https://img.shields.io/github/contributors/nishuR15/nishuR15?color=black&style=flat&logo=github&logoColor=black"></a>
-  <a href="https://github.com/nishuR15?tab=followers"><img src="https://img.shields.io/github/followers/nishuR15?color=black&style=flat&logo=github&logoColor=black"></a>
-  <a href="https://github.com/nishuR15/nishuR15"><img src="https://img.shields.io/github/stars/nishuR15/nishuR15?color=black&style=flat&logo=github&logoColor=black"></a>
-  <a href="https://github.com/nishuR15/nishuR15"><img src="https://img.shields.io/github/forks/nishuR15/nishuR15?color=black&style=flat&logo=github&logoColor=black"></a>
-  <a href="https://github.com/nishuR15/nishuR15"><img src="https://img.shields.io/github/watchers/nishuR15/nishuR15?color=black&style=flat&logo=github&logoColor=black"></a>
-  <a href="https://github.com/nishuR15/nishuR15"><img src="https://img.shields.io/github/last-commit/nishuR15/nishuR15?color=black&style=flat&logo=github&logoColor=black"></a>
-  <a href="https://github.com/nishuR15/nishuR15"><img src="https://img.shields.io/github/actions/workflow/status/nishuR15/nishuR15/your-workflow-file.yml?branch=main&color=black&style=flat&logo=github&logoColor=black"></a>
+  <a href="https://github.com/nishuR27/nishuR27"><img src="https://img.shields.io/github/contributors/nishuR27/nishuR27?color=black&style=flat&logo=github&logoColor=black"></a>
+  <a href="https://github.com/nishuR27?tab=followers"><img src="https://img.shields.io/github/followers/nishuR27?color=black&style=flat&logo=github&logoColor=black"></a>
+  <a href="https://github.com/nishuR27/nishuR27"><img src="https://img.shields.io/github/stars/nishuR27/nishuR27?color=black&style=flat&logo=github&logoColor=black"></a>
+  <a href="https://github.com/nishuR27/nishuR27"><img src="https://img.shields.io/github/forks/nishuR27/nishuR27?color=black&style=flat&logo=github&logoColor=black"></a>
+  <a href="https://github.com/nishuR27/nishuR27"><img src="https://img.shields.io/github/watchers/nishuR27/nishuR27?color=black&style=flat&logo=github&logoColor=black"></a>
+  <a href="https://github.com/nishuR27/nishuR27"><img src="https://img.shields.io/github/last-commit/nishuR27/nishuR27?color=black&style=flat&logo=github&logoColor=black"></a>
+  <a href="https://github.com/nishuR27/nishuR27"><img src="https://img.shields.io/github/actions/workflow/status/nishuR27/nishuR27/your-workflow-file.yml?branch=main&color=black&style=flat&logo=github&logoColor=black"></a>
 
 </div> 
 <br>
@@ -70,7 +70,7 @@
 ### <h1>My Trophies:</h1>
 
 <div style="display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-  <a href="https://github.com/nishuR15/nishuR15" target="_blank" rel="https://github.com/nishuR15/nishuR15"><img src="https://github-profile-trophy.vercel.app/?username=nishuR15&theme=algolia&no-bg=true&no-frame=true" alt="nishuR15" /></a>
+  <a href="https://github.com/nishuR27/nishuR27" target="_blank" rel="https://github.com/nishuR27/nishuR27"><img src="https://github-profile-trophy.vercel.app/?username=nishuR27&theme=algolia&no-bg=true&no-frame=true" alt="nishuR27" /></a>
 </div>
 <br>
 <br>
@@ -83,7 +83,7 @@
 * I have basic knowledge of **C**, which has helped me understand the fundamentals of programming.
 * My expertise extends to **HTML and CSS**, where I work on crafting responsive and visually appealing web pages.
 * I actively use **Termux** for a variety of tasks, including running **Kali Linux and managing development environments** or **practicing programming languages** on mobile.
-* All of my projects are available at my [Repository Tab](https://github.com/nishuR15?tab=repositories), where you can explore my coding journey.
+* All of my projects are available at my [Repository Tab](https://github.com/nishuR27?tab=repositories), where you can explore my coding journey.
 * How to reach me: [nishanrajak7679@gmail.com](mailto:nishanrajak7679@gmail.com) or [nishangithub.com@gmail.com](mailto:nishangithub.com@gmail.com). I'm always open to collaborations and discussions about tech!
 <br>
 <br>
@@ -174,20 +174,20 @@ You can email me at [nishangithub.comgmail.com](mailto:nishangithub.com@gmail.co
 
 ### Fun time
 
-![Jokes Card](https://readme-jokes.vercel.app/api?username=nishuR15&theme=algolia&hideBorder)
+![Jokes Card](https://readme-jokes.vercel.app/api?username=nishuR27&theme=algolia&hideBorder)
 ![Qoutes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
 <br>
 
 ### Repositories and Languages
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nishuR15&repo=nishuR15&show_owner=true&theme=midnight-purple)](https://github.com/nishuR15)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nishuR15&show_icons=true&locale=en&layout=compact&theme=midnight-purple)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nishuR27&repo=nishuR15&show_owner=true&theme=midnight-purple)](https://github.com/nishuR27)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nishuR27&show_icons=true&locale=en&layout=compact&theme=midnight-purple)
 
 <br><br>
 ### GitHub Stats and  Contributions
-![Github Repo](https://github-contributor-stats.vercel.app/api?username=nishuR15&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishuR15&show_icons=true&theme=midnight-purple&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Github Repo](https://github-contributor-stats.vercel.app/api?username=nishuR27&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishuR27&show_icons=true&theme=midnight-purple&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 <br>
@@ -195,11 +195,11 @@ You can email me at [nishangithub.comgmail.com](mailto:nishangithub.com@gmail.co
 
 ## <h1>GitHub Streak and Activity Graph</h1>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nishuR15&show_icons=true&theme=midnight-purple)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nishuR27&show_icons=true&theme=midnight-purple)
 
 <br>
 
-[![Nishu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishuR15&theme=github-compact&bg=false&line=8A2BE2&hide_border=true&point=ff0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nishu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishuR27&theme=github-compact&bg=false&line=8A2BE2&hide_border=true&point=ff0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 <br>
@@ -222,5 +222,5 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ### Projects
 
-* I'm currently working on projects. [Click here to check my projects.](https://github.com/nishuR15?tab=projects)
+* I'm currently working on projects. [Click here to check my projects.](https://github.com/nishuR27?tab=projects)
 * Stay tuned for more updates! 🚀
